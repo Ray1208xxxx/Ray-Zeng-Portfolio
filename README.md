@@ -9,6 +9,7 @@ This is Ray Zeng's Portfolio
 ![Java](https://img.shields.io/badge/Program_language-Java-purple)
 ![SQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![PowerBI](https://img.shields.io/badge/Dashboard-PowerBI-orange)
+![Tableau](https://img.shields.io/badge/Dashboard-Tableau-red)
 
 <!-- PROJECT LOGO -->
 Hi! My name is Ray Zeng, and I’m currently pursuing a master’s degree in information systems management at Carnegie Mellon University, with an expected graduation in December 2024. Before this, I earned a bachelor’s degree in computer science with a focus on Data Science from the University of Queensland. 
