@@ -46,9 +46,9 @@ Assignment: Visualizing government debt using Tableau
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-Click the link below to view the interactive Tableau visualization: https://public.tableau.com/views/A2_17303414121200/Sheet1
-[View Interactive Tableau Visualization](https://ray1208xxxx.github.io/Ray-Zeng-Portfolio/)
 
+Click the link below to view the interactive Tableau visualization: 
+[https://public.tableau.com/views/A2_17303414121200/Sheet1](https://public.tableau.com/views/A2_17303414121200/Sheet1?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Treemap
 <div class='tableauPlaceholder' id='viz1730342434616' style='position: relative'>
@@ -84,6 +84,9 @@ Click the link below to view the interactive Tableau visualization: https://publ
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+Click the link below to view the interactive Tableau visualization: 
+[https://public.tableau.com/views/A2_17303414121200/Sheet1](https://public.tableau.com/views/A2Graph2/Sheet1?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Discuss
 I think the heap map is too cumbersome because there is a lot of data and displaying it by year is too cumbersome and I got tired of looking at it, so I wanted to simplify the whole chart to one that I could see the meaning of at a glance.
