@@ -29,8 +29,8 @@ In this course, I hope to learn effective data visualization techniques for diff
 Critique and redesign data visualizations by disassembling their aspects.
 
 ### Assignment 2: 
-Click the link below to view my data visualization 2 file:
-[View Data Visualization README](https://github.com/Ray1208xxxx/Ray-Zeng-Portfolio/blob/main/dataviz2.md)
+Click the link below to view my visualizing government debt file:
+[View Government Debt Visualization](visualizing-government-debt)
 
 ### Assignment 3: 
 Not yet post...
