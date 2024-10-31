@@ -36,3 +36,5 @@ Assignment: Visualizing government debt using Tableau
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+Click the link below to view the interactive Tableau visualization: https://public.tableau.com/views/A2_17303414121200/Sheet1
