@@ -75,3 +75,8 @@ Click the link below to view the interactive Tableau visualization: https://publ
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+### Discuss
+I think the heap map is too cumbersome because there is a lot of data and displaying it by year is too cumbersome and I got tired of looking at it, so I wanted to simplify the whole chart to one that I could see the meaning of at a glance.
+
+I came up with the idea of a treemap, which visualizes the overall debt of each country in a more intuitive way, and I can see the relative comparisons between different countries directly. So I removed TIME and only show the total debt for each country from 1995 to 2019. And I changed the color from orange-blue diverging to green-red diverging, and set the median value to 2000, so that I can show that countries below 2000 have less debt, so it is green, and countries above 2000 have more debt, so it is red.
+
