@@ -1,3 +1,5 @@
+| [home page](https://ray1208xxxx.github.io/Ray-Zeng-Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # This is for 
 Assignment: Visualizing government debt using Tableau
 
@@ -11,10 +13,13 @@ Click the link below to back view my portfolio:
 
 
 ### Heat map
+
 <div class='tableauPlaceholder' id='viz1730341423953' style='position: relative'>
     <noscript>
         <a href='#'>
-            <img alt='General government debt from 1995 to 2019' src='https://public.tableau.com/static/images/A2/A2_17303414121200/Sheet1/1_rss.png' style='border: none' />
+            <img alt='General government debt from 1995 to 2019' 
+                src='https://public.tableau.com/static/images/A2/A2_17303414121200/Sheet1/1_rss.png' 
+                style='border: none' />
         </a>
     </noscript>
     <object class='tableauViz' style='display:none;'>
