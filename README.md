@@ -1,3 +1,5 @@
+| [home page](https://ray1208xxxx.github.io/Ray-Zeng-Portfolio/) | [visualizing debt](dataviz2) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # Ray-Zeng-Portfolio
 This is Ray Zeng's Portfolio
 
