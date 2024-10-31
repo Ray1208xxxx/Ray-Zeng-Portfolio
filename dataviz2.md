@@ -3,6 +3,7 @@ Assignment: Visualizing government debt using Tableau
 
 
 # My tableau
+### Heat map
 <div class='tableauPlaceholder' id='viz1730341423953' style='position: relative'>
     <noscript>
         <a href='#'>
@@ -39,6 +40,7 @@ Assignment: Visualizing government debt using Tableau
 
 Click the link below to view the interactive Tableau visualization: https://public.tableau.com/views/A2_17303414121200/Sheet1
 
+### Treemap
 <div class='tableauPlaceholder' id='viz1730342434616' style='position: relative'>
     <noscript>
         <a href='#'>
