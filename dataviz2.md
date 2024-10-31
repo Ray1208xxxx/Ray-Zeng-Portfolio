@@ -3,6 +3,9 @@ Assignment: Visualizing government debt using Tableau
 
 
 # My tableau
+### Government debt bar chart
+![General Government Debt Visualization](https://github.com/Ray1208xxxx/Ray-Zeng-Portfolio/raw/main/export-2024-10-31T13_34_13.992Z.png)
+
 ### Heat map
 <div class='tableauPlaceholder' id='viz1730341423953' style='position: relative'>
     <noscript>
