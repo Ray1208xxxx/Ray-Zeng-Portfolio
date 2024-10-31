@@ -3,10 +3,6 @@
 # This is for 
 Assignment: Visualizing government debt using Tableau
 
-Click the link below to back view my portfolio:
-[View Portfolio README](https://github.com/Ray1208xxxx/Ray-Zeng-Portfolio/blob/main/README.md)
-
-
 # My tableau
 ### Government debt bar chart
 ![General Government Debt Visualization](https://github.com/Ray1208xxxx/Ray-Zeng-Portfolio/raw/main/export-2024-10-31T13_34_13.992Z.png)
