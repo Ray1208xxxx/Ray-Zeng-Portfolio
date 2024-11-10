@@ -8,7 +8,7 @@ Name: The cheapest countries to study in Europe in 2024
 
 Link: https://www.finder.com/uk/current-accounts/student-bank-accounts/cheapest-countries-to-study-europe
 
-![Cheapest Countries to Study in Europe](https://github.com/Ray1208xxxx/Ray-Zeng-Portfolio/blob/main/cheapest-countries-to-study-in-Europe.png)
+![Cheapest Countries to Study in Europe](https://raw.githubusercontent.com/Ray1208xxxx/Ray-Zeng-Portfolio/main/cheapest-countries-to-study-in-Europe.png)
 
 > I chose to include this visualization because it was in the first few MakeoverMonday's and I didn't find data on education spending in the US (just kidding). I lived in Australia before coming to the U.S., so I was curious about how much it would cost to live and study in another country. This map of study costs in Europe uses a straightforward, simple approach to show how cost data can be expressed and help users understand the economic impact of different study options. Visualizations like this are an inspiration and example for people like me who have a keen interest in education, data-driven decision-making, and how to make data more accessible.
 
