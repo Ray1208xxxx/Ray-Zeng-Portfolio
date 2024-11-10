@@ -1,4 +1,4 @@
-| [home page](https://ray1208xxxx.github.io/Ray-Zeng-Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design]() | [final project I]() | [final project II]() | [final project III]() |
+| [home page](https://ray1208xxxx.github.io/Ray-Zeng-Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I]() | [final project II]() | [final project III]() |
 
 # Ray-Zeng-Portfolio
 This is Ray Zeng's Portfolio
@@ -33,7 +33,8 @@ Click the link below to view my visualizing government debt file:
 [View Government Debt Visualization](visualizing-government-debt)
 
 ### Assignment 3: 
-Not yet post...
+Click the link below to view my critique by design file:
+[View Critique By Design](critique-by-design)
 
 ## Final Project:
 Not yet post...
