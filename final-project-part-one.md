@@ -1,3 +1,5 @@
+| [home page](https://ray1208xxxx.github.io/Ray-Zeng-Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # Project Name: Explore popular tourist lodging locations in different areas of Boston using Airbnb Listings Data
 
 ## Summary of the project
