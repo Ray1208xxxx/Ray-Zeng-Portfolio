@@ -9,6 +9,21 @@ In this project I plan to use Python for data processing and data analysis, I wa
 
 The goal of this project is to provide users with a better understanding of the Airbnb market within the city of Boston, thus providing useful insights for hosts, travelers, and decision makers.
 
+## Project Structure
+### Setup: Introduce the background
+I would start this project using my story that I am getting ready to plan a trip to Boston and would like to know the number of listings and prices in different areas. I would then use a panoramic map to show the distribution of Airbnb listings within the city. By using markers with different densities, the viewer can get a quick idea of which areas have a higher concentration of listings.
+
+### Conflict: Exploration and Problem Presentation
+Next, I will explore in depth the main factors that influence the price of Airbnb listings in Boston, such as location, listing type, amenities, and user reviews. I will then use cluster analysis KMeans to identify differences in listing types, and a price heat map to show significant differences in prices across regions. The goal of the conflict section is to reveal the challenges faced by landlords and tenants when pricing and choosing listings, especially in terms of how to balance the choice between price and location.
+
+### Rising Action: Analyze and Discover 
+Further analyze the impact of each listing type on rental performance, including the relationship between the number of reviews and booking rates. Demonstrate trends in the impact of certain characteristics on the price or performance of listings through the use of partial dependency graphs to better understand the impact of these characteristics on the market. Here I want to show what specific steps landlords can take to improve the attractiveness of their listings, which will increase booking rates and revenue.
+
+### Resolution: Conclusions and Recommendations
+Finally, I will summarize the key findings and provide some practical advice for both landlords and tenants. For example, for landlords, how specific amenities can be utilized to enhance competitiveness and for tenants, how to find value for money accommodation. With these recommendations, I hope to provide targeted strategies for different user groups to help them make better decisions in the market.
+
+## Initial sketches
+
 ## Data Sources
 | Name                 | URL | Description |
 |----------------------|-----|-------------|
@@ -24,7 +39,7 @@ The goal of this project is to provide users with a better understanding of the 
 - **Relationship between reviews and booking rate:** Using review data, analyze how hosts' reviews affect the popularity of listings.
 
 ## Method and medium
-# Tools and Applications
+Tools and Applications:
 
 | Tool                     | Purpose                                                                                    |
 |--------------------------|--------------------------------------------------------------------------------------------|
