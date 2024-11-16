@@ -25,18 +25,18 @@ Finally, I will summarize the key findings and provide some practical advice for
 ## Initial sketches
 
 ## Data Sources
-| Name                 | URL | Description |
-|----------------------|-----|-------------|
-| Primary Data Source  |[link](https://data.insideairbnb.com/united-states/ma/boston/2024-06-22/visualisations/listings.csv)| Summary information and metrics for Boston listings through June 2024, including listing location, listing type, price, amenities, number of reviews and ratings. |
-| Explore this dataset |[link](https://insideairbnb.com/boston/)| Some visualization and background information on the basis of the dataset. |
-| GeoJSON data file    |[link](https://data.insideairbnb.com/united-states/ma/boston/2024-06-22/visualisations/neighbourhoods.geojson)| GeoJSON file of neighbourhoods of the city. |
+| Name                 | URL                                                                                 | Description                                                                                             |
+|----------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| **Primary Data Source**  | [link](https://data.insideairbnb.com/united-states/ma/boston/2024-06-22/visualisations/listings.csv)  | Summary information and metrics for Boston listings through June 2024, including listing location, listing type, price, amenities, number of reviews and ratings. |
+| **Explore this dataset** | [link](https://insideairbnb.com/boston/)                                         | Some visualization and background information on the basis of the dataset.                             |
+| **GeoJSON data file**    | [link](https://data.insideairbnb.com/united-states/ma/boston/2024-06-22/visualisations/neighbourhoods.geojson) | GeoJSON file of neighbourhoods of the city.                                                            |
 
-> [!NOTE]
-> **How to use data:**
-- **Distribution of listings:** Using geographic location data, a panoramic map is drawn to show areas where listings are concentrated and sparse.
-- **Price analysis:** Use price data combined with geographic information to generate a price heat map to show price differences and areas of high and low prices.
-- **Influencing factor analysis:** Explore the main factors influencing the price of a listing by combining information such as the listing's facilities and reviews.
-- **Relationship between reviews and booking rate:** Using review data, analyze how hosts' reviews affect the popularity of listings.
+**How to use data:**
+ - **Distribution of listings:** Using geographic location data, a panoramic map is drawn to show areas where listings are concentrated and sparse.
+ - **Price analysis:** Use price data combined with geographic information to generate a price heat map to show price differences and areas of high and low prices.
+ - **Influencing factor analysis:** Explore the main factors influencing the price of a listing by combining information such as the listing's facilities and reviews.
+ - **Relationship between reviews and booking rate:** Using review data, analyze how hosts' reviews affect the popularity of listings.
+
 
 ## Method and medium
 Tools and Applications:
