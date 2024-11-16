@@ -23,6 +23,15 @@ Further analyze the impact of each listing type on rental performance, including
 Finally, I will summarize the key findings and provide some practical advice for both landlords and tenants. For example, for landlords, how specific amenities can be utilized to enhance competitiveness and for tenants, how to find value for money accommodation. With these recommendations, I hope to provide targeted strategies for different user groups to help them make better decisions in the market.
 
 ## Initial sketches
+### Overview Map & Category Heatmap
+![Map Visualization](https://github.com/Ray1208xxxx/Ray-Zeng-Portfolio/blob/main/Map.jpeg)
+> Overview map is to help the audience quickly understand the spatial distribution of Airbnb listings across Boston, with colors ranging from blue to red representing low to high prices, highlighting the differences in pricing across neighborhoods.
+> Category Heatmap highlights different listing types and their market positioning, red for Airbnb Hosts can list entire houses/apartments and green for private rooms. The polyglot can help hosts understand which category their listing belongs to and what features make it stand out.
+
+### Partial Dependence Plot
+![Price Distribution](https://github.com/Ray1208xxxx/Ray-Zeng-Portfolio/blob/main/PD.jpeg)
+> This plot provides a partial dependence showing the marginal effect of a particular feature. Help Airbnb Hosts understand how certain characteristics (e.g., number of room, user ratings, etc.) affect the price of their listings so they can take targeted optimization measures.
+
 
 ## Data Sources
 | Name                 | URL                                                                                 | Description                                                                                             |
