@@ -37,4 +37,5 @@ Click the link below to view my critique by design file:
 [View Critique By Design](critique-by-design)
 
 ## Final Project:
-Not yet post...
+Click the link below to view my final project I:
+[final project I](final-project-part-one)
