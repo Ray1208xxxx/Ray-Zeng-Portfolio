@@ -24,21 +24,22 @@ Finally, I will summarize the key findings and provide some practical advice for
 
 ## Initial sketches
 ### Overview Map & Category Heatmap
-![Map Visualization](https://github.com/Ray1208xxxx/Ray-Zeng-Portfolio/blob/main/Map.jpeg)
+![Map Visualization](https://raw.githubusercontent.com/Ray1208xxxx/Ray-Zeng-Portfolio/main/Map.jpeg)
 > Overview map is to help the audience quickly understand the spatial distribution of Airbnb listings across Boston, with colors ranging from blue to red representing low to high prices, highlighting the differences in pricing across neighborhoods.
 > Category Heatmap highlights different listing types and their market positioning, red for Airbnb Hosts can list entire houses/apartments and green for private rooms. The polyglot can help hosts understand which category their listing belongs to and what features make it stand out.
 
 ### Partial Dependence Plot
-![Price Distribution](https://github.com/Ray1208xxxx/Ray-Zeng-Portfolio/blob/main/PD.jpeg)
+![Price Distribution](https://raw.githubusercontent.com/Ray1208xxxx/Ray-Zeng-Portfolio/main/PD.jpeg)
 > This plot provides a partial dependence showing the marginal effect of a particular feature. Help Airbnb Hosts understand how certain characteristics (e.g., number of room, user ratings, etc.) affect the price of their listings so they can take targeted optimization measures.
 
 
 ## Data Sources
-| Name                 | URL                                                                                 | Description                                                                                             |
-|----------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| **Primary Data Source**  | [link](https://data.insideairbnb.com/united-states/ma/boston/2024-06-22/visualisations/listings.csv)  | Summary information and metrics for Boston listings through June 2024, including listing location, listing type, price, amenities, number of reviews and ratings. |
-| **Explore this dataset** | [link](https://insideairbnb.com/boston/)                                         | Some visualization and background information on the basis of the dataset.                             |
-| **GeoJSON data file**    | [link](https://data.insideairbnb.com/united-states/ma/boston/2024-06-22/visualisations/neighbourhoods.geojson) | GeoJSON file of neighbourhoods of the city.                                                            |
+
+| Name | URL | Description |
+|------|-----|-------------|
+| **Primary Data Source** | [link](https://data.insideairbnb.com/united-states/ma/boston/2024-06-22/visualisations/listings.csv) | Summary information and metrics for Boston listings through June 2024, including listing location, listing type, price, amenities, number of reviews and ratings. |
+| **Explore this dataset** | [link](https://insideairbnb.com/boston/) | Some visualization and background information on the basis of the dataset. |
+| **GeoJSON data file** | [link](https://data.insideairbnb.com/united-states/ma/boston/2024-06-22/visualisations/neighbourhoods.geojson) | GeoJSON file of neighbourhoods of the city. |
 
 **How to use data:**
  - **Distribution of listings:** Using geographic location data, a panoramic map is drawn to show areas where listings are concentrated and sparse.
