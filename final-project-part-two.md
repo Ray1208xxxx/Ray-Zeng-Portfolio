@@ -130,6 +130,16 @@ Focusing on Minimum Nights, you can see from the map that when the minimum numbe
 
 The main purpose of these partial dependency graphs is to help understand how individual features affect the predicted price, as well as to reveal how the model adjusts the predicted price when specific features change. These plots allow for a better understanding of which factors have the greatest impact on the pricing of Airbnb listings, as well as the specific direction and magnitude of the impact of these factors. More can be found in my [Jupyter Notebook: Airbnb Analysis](https://github.com/Ray1208xxxx/Ray-Zeng-Portfolio/blob/main/airbnb.ipynb).
 
+### Business insights and conclusions: regional pricing and listing strategies
+
+Advice for Travelers:
+The visual analysis above shows that Back Bay and Downtown are worthwhile areas to choose if on a budget to experience Boston's core urban living area. If value for money is important, you can choose Bright or Roxbury, which are some distance away from the attractions but cheaper.
+
+Advice to Landlords:
+Differentiate pricing strategies by having different listings in different areas, such as optimizing listing amenities and services in areas with dense listings to improve ratings and occupancy. In areas with fewer listings, prices can be adjusted to take advantage of scarcity to attract specific groups of tourists.
+
+A comprehensive analysis of listing prices, number of rooms, and types of listings reveals that the Airbnb market in Boston is full of diversity and opportunities.
+
 # User research 
 
 ## Target audience
