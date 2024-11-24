@@ -8,9 +8,9 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+I want to explore Airbnb pricing through my project, so my primary audience target is users who use Airbnb like me, and secondly my project will potentially help Airbnb hosts as well as city administrators, so they are also my target audience. All three of my target groups have different needs regarding the dynamics and trends of the Airbnb market, for example, users or renters want to find quality and cost-effective accommodation, hosts want to understand how to develop better pricing strategies for their properties and optimize their room amenities to cater to the market, and city managers want to understand the spatial distribution of properties and their impact on the city.
 
-Text here!
+Since renters and hosts are easier to find but **city managers are more difficult to interview, I've tried emailing a few but haven't heard back yet, so for now there are only two renters and one host. More specifically, both renters are students who have used Airbnb before and are relatively sensitive to price as well as location, while the host owns an Airbnb listing in boston.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
