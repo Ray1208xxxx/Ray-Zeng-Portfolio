@@ -7,17 +7,111 @@ I'll start with an introduction to Boston's urban history, cultural background, 
 
 ### Boston Airbnb market overview
 At the beginning of my story, I give the audience an engaging opening - I show a map of Boston, marking areas of high density of listings by scattering dots, as well as marking listings at different prices by different colors, e.g., under $250 a night in blue, above in orange. Here I will use a textual narrative to describe why there is a concentration of listings in these areas, as well as analyze possible reasons, including the distribution of attractions, access to transportation, etc.
-<div class='tableauPlaceholder' id='viz1732423059802' style='position: relative'><noscript><a href='#'><img alt='Boston Airbnb Overview by Price, Room Type, and Neighborhood ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MapOverview_17323167102140&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MapOverview_17323167102140&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MapOverview_17323167102140&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1732423059802');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<div class='tableauPlaceholder' id='viz1732423059802' style='position: relative'>
+  <noscript>
+    <a href='#'>
+      <img alt='Boston Airbnb Overview by Price, Room Type, and Neighborhood' src='https://public.tableau.com/static/images/Ma/MapOverview_17323167102140/Sheet1/1_rss.png' style='border: none' />
+    </a>
+  </noscript>
+  <object class='tableauViz' style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+    <param name='embed_code_version' value='3' />
+    <param name='site_root' value='' />
+    <param name='name' value='MapOverview_17323167102140/Sheet1' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' value='https://public.tableau.com/static/images/Ma/MapOverview_17323167102140/Sheet1/1.png' />
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='zh-CN' />
+  </object>
+</div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1732423059802');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
 ### Distribution of Airbnb room types in Boston
 The map allows you to visualize the distribution of listing types in each area of Boston. For example, the main types of listings in Boston are Entire home/apt and Private room, which are concentrated in areas such as Back Bay, Bright and Downtown. In contrast, Fenway and Charlestown have fewer listings but still attract specific types of tourists.
 
 By analyzing the characteristics of the listings, it can be concluded that tourists generally prefer accommodation with private space, while for hotels and share rooms are not popular in Boston. For hosts, it is possible to adjust the price and estimate the occupancy rate according to the choice of different housing types.
-<div class='tableauPlaceholder' id='viz1732423914373' style='position: relative'><noscript><a href='#'><img alt='Airbnb Room Type Distribution ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;te&#47;test2_17324237366850&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='test2_17324237366850&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;te&#47;test2_17324237366850&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1732423914373');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<div class='tableauPlaceholder' id='viz1732423914373' style='position: relative'>
+  <noscript>
+    <a href='#'>
+      <img alt='Airbnb Room Type Distribution' src='https://public.tableau.com/static/images/te/test2_17324237366850/Sheet2/1_rss.png' style='border: none' />
+    </a>
+  </noscript>
+  <object class='tableauViz' style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+    <param name='embed_code_version' value='3' />
+    <param name='site_root' value='' />
+    <param name='name' value='test2_17324237366850/Sheet2' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' value='https://public.tableau.com/static/images/te/test2_17324237366850/Sheet2/1.png' />
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='zh-CN' />
+    <param name='filter' value='publish=yes' />
+  </object>
+</div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1732423914373');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
 
 ### Relationship between number of rooms, region and prices
 Further explore the relationship between number of rooms, region and price. The number of listings in different areas directly affects the competitiveness of prices. For example, Back Bay has a high number of listings but higher prices overall, while Fenway has a lower number of listings and a more concentrated price range. And the box plot can reflect the statistical values of price, such as the minimum, median and maximum values in different areas, so as to quickly understand the distribution of price in different areas. It also shows the differences between different groups, for example, Longwood Medical Area is generally more expensive and has fewer rooms, while the outliers (especially high prices) in downtown are hotels.
-<div class='tableauPlaceholder' id='viz1732424343519' style='position: relative'><noscript><a href='#'><img alt='The Secret Behind Prices, Room Type and Regions Revealed ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;pr&#47;priceroomtyperegion&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='priceroomtyperegion&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;pr&#47;priceroomtyperegion&#47;Sheet3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1732424343519');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<div class='tableauPlaceholder' id='viz1732424343519' style='position: relative'>
+  <noscript>
+    <a href='#'>
+      <img alt='The Secret Behind Prices, Room Type and Regions Revealed' src='https://public.tableau.com/static/images/pr/priceroomtyperegion/Sheet3/1_rss.png' style='border: none' />
+    </a>
+  </noscript>
+  <object class='tableauViz' style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+    <param name='embed_code_version' value='3' />
+    <param name='site_root' value='' />
+    <param name='name' value='priceroomtyperegion/Sheet3' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' value='https://public.tableau.com/static/images/pr/priceroomtyperegion/Sheet3/1.png' />
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='zh-CN' />
+    <param name='filter' value='publish=yes' />
+  </object>
+</div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1732424343519');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
 
 ### Partial Dependence Plot
 The PD plot plots the average impact on Airbnb price for each feature, for example, as latitude changes, the change in price is smaller, which means that north and south of Boston have a more limited impact on the price, and looking at the map you can see that those are the suburbs of Boston.
