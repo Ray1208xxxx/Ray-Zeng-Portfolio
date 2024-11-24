@@ -121,13 +121,14 @@ Further explore the relationship between number of rooms, region and price. The 
 
 ### Partial Dependence Plot
 The PD plot plots the average impact on Airbnb price for each feature, for example, as latitude changes, the change in price is smaller, which means that north and south of Boston have a more limited impact on the price, and looking at the map you can see that those are the suburbs of Boston.
+
 ![Latitude Image](https://raw.githubusercontent.com/Ray1208xxxx/Ray-Zeng-Portfolio/main/latitde.png)
 
 Focusing on Minimum Nights, you can see from the map that when the minimum number of days of occupancy increases, the price drops rapidly and eventually levels off, which is consistent with my common sense that short-term rentals tend to be more expensive but longer-term rentals have a price discount, or perhaps tenants generally don't have the need to rent for as long a period of time, so a long period of time with a minimum occupancy requirement is less appealing to the tenant resulting in a drop in the price.
+
 ![Night Image](https://raw.githubusercontent.com/Ray1208xxxx/Ray-Zeng-Portfolio/main/night.png)
 
-The main purpose of these partial dependency graphs is to help understand how individual features affect the predicted price, as well as to reveal how the model adjusts the predicted price when specific features change. These plots allow for a better understanding of which factors have the greatest impact on the pricing of Airbnb listings, as well as the specific direction and magnitude of the impact of these factors. More can be found in my ipynb file. 
-[Jupyter Notebook: Airbnb Analysis](https://github.com/Ray1208xxxx/Ray-Zeng-Portfolio/blob/main/airbnb.ipynb)
+The main purpose of these partial dependency graphs is to help understand how individual features affect the predicted price, as well as to reveal how the model adjusts the predicted price when specific features change. These plots allow for a better understanding of which factors have the greatest impact on the pricing of Airbnb listings, as well as the specific direction and magnitude of the impact of these factors. More can be found in my [Jupyter Notebook: Airbnb Analysis](https://github.com/Ray1208xxxx/Ray-Zeng-Portfolio/blob/main/airbnb.ipynb).
 
 # User research 
 
