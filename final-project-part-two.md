@@ -135,7 +135,7 @@ The main purpose of these partial dependency graphs is to help understand how in
 Advice for Travelers:
 The visual analysis above shows that Back Bay and Downtown are worthwhile areas to choose if on a budget to experience Boston's core urban living area. If value for money is important, you can choose Bright or Roxbury, which are some distance away from the attractions but cheaper.
 
-Advice to Landlords:
+Advice to host:
 Differentiate pricing strategies by having different listings in different areas, such as optimizing listing amenities and services in areas with dense listings to improve ratings and occupancy. In areas with fewer listings, prices can be adjusted to take advantage of scarcity to attract specific groups of tourists.
 
 A comprehensive analysis of listing prices, number of rooms, and types of listings reveals that the Airbnb market in Boston is full of diversity and opportunities.
@@ -145,53 +145,39 @@ A comprehensive analysis of listing prices, number of rooms, and types of listin
 ## Target audience
 I want to explore Airbnb pricing through my project, so my primary audience target is users who use Airbnb like me, and secondly my project will potentially help Airbnb hosts as well as city administrators, so they are also my target audience. All three of my target groups have different needs regarding the dynamics and trends of the Airbnb market, for example, users or renters want to find quality and cost-effective accommodation, hosts want to understand how to develop better pricing strategies for their properties and optimize their room amenities to cater to the market, and city managers want to understand the spatial distribution of properties and their impact on the city.
 
-Since renters and hosts are easier to find but **city managers are more difficult to interview, I've tried emailing a few but haven't heard back yet, so for now there are only two renters and one host. More specifically, both renters are students who have used Airbnb before and are relatively sensitive to price as well as location, while the host owns an Airbnb listing in boston.
+Since renters and hosts are easier to find but city managers are more difficult to interview, I've tried emailing a few but haven't heard back yet, so for now there are only two renters and one host. More specifically, the first renter is a student who has used Airbnb before and is relatively sensitive to price as well as location, the other renter is a freelancer with financial income and traveling habits, while the host is an employee of the company who has rented out homes as a landlord and is familiar with Airbnb data.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+Before starting I would briefly introduce the purpose of the study to them and guide them through each chart one by one according to the objectives and ask relevant questions. Then record their ideas and suggestions.
+
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+| **Evaluate whether the visualization clearly communicates key information** | What is your first impression of these charts? Does it quickly capture the key information? |
+| **Evaluate whether the presentation effectively communicates the story** | Was there a part of the presentation that stood out to you? Why? |
+| **Feedback on overall design and experience** | Do you have any other suggestions for the overall design and experience? |
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (College student, 24 years old, used Airbnb) | Interview 2 (Freelancer, 27 years old, with financial income and traveling habits) | Interview 3 (Company employee, 29 years old, Airbnb host) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| What is your first impression of these charts? | I think it's intuitively designed through the map to clearly show price range divisions, and I can see at a glance in which areas the listings are spread out the most. | The design of the charts is very clear, the color scheme is attractive, and the overall style makes me feel comfortable without being too serious. | The overall layout and design of the charts is very professional, especially the price box charts and the PD charts are very useful for me to be able to quickly find the information I need, such as the statistics of the price in each area and the relationship with other features. |
+| Does it quickly capture the key information? (From 0 to 10, 0 is not at all, 10 is perfect) | I would say 7, Mostly ok but it would have been nice to have the backstory. | 8, The map's key information is easy to capture, but the box diagram is more complex and has too much information. | Yes, 7 to 8, I think the presentation would have been more helpful if some of the particular outliers (e.g. high priced listings) had been explained in more detail. |
+| Was there a part of the presentation that stood out to you? Why? | I liked how you used the analysis of the concentration of high priced listings in certain high end areas in your presentation, it allowed me to understand the logic behind the data. | I think the whole thing is amazing. | What struck me most was your combination of listing distribution vs. price, which made me think of my own airbnb rental area and pricing strategy. |
+| Do you have any other suggestions for the overall design and experience? | I think a backstory could be added to give more information about Boston zoning, etc. | The visualization of the room type can be modified, the map obscures some of the information. | Simplification of the box plot, as well as adding more explanation to the PD plot. |
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Add more background information | Adding more information about Boston allows viewers to get a quick overview of Boston as well as helps them understand the visualization. |
+| Enhanced clarity of maps | I'll change the map background so that the map no longer obscures important information. |
+| Improve the structure of box plots | Use a clearer structure to present the visualization, as well as explain exactly what the median, quartiles, and outliers mean. At the same time, the outliers are marked with more conspicuous colors to highlight the characteristics of high-priced listings. |
+| Increased PD Chart Interpretation | Interpret PD charts in more detail to reveal the meaning behind the data. |
 
 > ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
 Text here!
 
