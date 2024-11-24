@@ -177,7 +177,5 @@ Before starting I would briefly introduce the purpose of the study to them and g
 | Improve the structure of box plots | Use a clearer structure to present the visualization, as well as explain exactly what the median, quartiles, and outliers mean. At the same time, the outliers are marked with more conspicuous colors to highlight the characteristics of high-priced listings. |
 | Increased PD Chart Interpretation | Interpret PD charts in more detail to reveal the meaning behind the data. |
 
-> ...include any final thoughts you have here. 
-
-Text here!
+Use shorthand as well as tableau for whole story presentations, link can be find in: [this Shorthand page](https://preview.shorthand.com/bhAhzRXfTRzlI3jW).
 
