@@ -39,5 +39,9 @@ Click the link below to view my critique by design file:
 ## Final Project:
 Click the link below to view my final project I:
 [final project I](final-project-part-one)
+
 Click the link below to view my final project II:
 [final project II](final-project-part-two)
+
+Click the link below to view my final project III:
+[final project III](final-project-part-three)
