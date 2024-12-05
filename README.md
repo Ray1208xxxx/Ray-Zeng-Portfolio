@@ -25,14 +25,11 @@ In this course, I hope to learn effective data visualization techniques for diff
 # Portfolio
 
 ## Assignments
-### Assignment 1: Data visualization critique
-Critique and redesign data visualizations by disassembling their aspects.
-
-### Assignment 2: 
+### Assignment: visualizing government debt
 Click the link below to view my visualizing government debt file:
 [View Government Debt Visualization](visualizing-government-debt)
 
-### Assignment 3: 
+### Assignment: critique by design
 Click the link below to view my critique by design file:
 [View Critique By Design](critique-by-design)
 
